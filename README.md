@@ -1,5 +1,3 @@
-# Welcome to my Project Portfolio for GR5074 Advanced Machine Learning
-
 ## Project 1: Predict country level happiness
 Predict a country is happy or not (Very High = Top 20% and Very Low = Bottom 20%) based on infomation like GDP per capita, social support, life expectancy, freedom to make life choices, generosity, and perceptions of corruption. 
 * dataset: U.N. World Happiness Data (249 countries and regions)
