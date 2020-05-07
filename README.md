@@ -6,7 +6,7 @@ dataset: U.N. World Happiness Data (249 countries and regions)
 
 model: neural network with Keras
 
-souce: [notebook](/Assignment1/Assignment_1.ipynb)
+souce: [notebook](https://github.com/SUN-Wenjun/Advanced_Machine_Learning_Assignment/blob/master/Assignment1/Assignment_1.ipynb)
 
 ## Project 2: Brain tumor prediction
 
